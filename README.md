@@ -1,6 +1,6 @@
 ### Hi !! I'm Natasha 👋
 
-- 🌱 I’m currently learning HTML5, CSS, JavaScript, Python
+- 🌱 I’m currently learning HTML5, CSS, JavaScript
 - 😄 Pronouns: She/Her
 
 <div align="center">
